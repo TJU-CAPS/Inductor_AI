@@ -104,7 +104,7 @@ If you use this code or data in your research, please cite:
 
 ## Funding
 
-This work is supported by **TECH SEED**.
+This work is supported by **[TECH SEED](http://en.techseed.com.cn/)**.
 
 ## License
 
