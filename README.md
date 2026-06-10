@@ -1,5 +1,7 @@
 # Inductor AI — EC Core Loss Prediction with Physics-Informed Neural Networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20587725.svg)](https://doi.org/10.5281/zenodo.20587725)
+
 A hybrid approach combining **analytic modeling** and **artificial neural networks** for predicting EC-type inductor performance (inductance, winding loss, core loss). Datasets are generated via **Maxwell FEM simulations** automated with PyAEDT.
 
 ## Project Structure
@@ -94,8 +96,9 @@ If you use this code or data in your research, please cite:
   author       = {TJU-CAPS},
   title        = {Inductor AI: EC Core Loss Prediction with Physics-Informed Neural Networks},
   year         = {2025},
-  publisher    = {GitHub},
-  url          = {https://github.com/TJU-CAPS/Inductor_AI}
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20587725},
+  url          = {https://doi.org/10.5281/zenodo.20587725}
 }
 ```
 
