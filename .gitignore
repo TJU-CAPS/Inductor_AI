@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# Model files
+*.pth
+*.pt
+*.sd
+
+# Archives (redundant)
+/*.zip
+
+# Temp files
+~$*
