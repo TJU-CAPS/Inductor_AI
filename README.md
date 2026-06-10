@@ -102,6 +102,10 @@ If you use this code or data in your research, please cite:
 }
 ```
 
+## Funding
+
+This work is supported by **TECH SEED**.
+
 ## License
 
 - **Code** — [MIT License](LICENSE)
